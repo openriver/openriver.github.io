@@ -9,5 +9,5 @@ This example illustrates some features of GitHub and Open Data. e.g. Note that t
 
 ### 2015 commercial water usage
 * 2015 commercial water usage: [CSV data file](https://raw.githubusercontent.com/openriver/utility/master/data/2015-COMMERCIAL-WATER.csv)
-* 2015 commercial water usage: [example graph of CSV](2015_commercial_water.html)
+* 2015 commercial water usage: [example graph of CSV](http://htmlpreview.github.io/?https://raw.githubusercontent.com/openriver/utility/master/examples/2015_commercial_water.html)
 
