@@ -1,6 +1,6 @@
 
 ## What is it?
-Open River is not real! It is a fictitious muncipality, to serve as an example by the [Open Data Book Club](http://peidevs.github.io/OpenDataBookClub).
+Open River is not real! It is a fictitious municipality, to serve as an example by the [Open Data Book Club](http://peidevs.github.io/OpenDataBookClub).
 
 This example illustrates some features of GitHub and Open Data. e.g. Note that this URL is branded for Open River: http://openriver.github.io
 
